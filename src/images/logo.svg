@@ -1,5 +1,1 @@
-<svg width="68" height="30" viewBox="0 0 68 30" fill="none" xmlns="http://www.w3.org/2000/svg">
-<path opacity="0.9" d="M51 0.430603L68 29.8537H34L51 0.430603Z" fill="#4D9DE0"/>
-<path opacity="0.9" d="M17 0.430511L34 29.8536H0L17 0.430511Z" fill="#4D9DE0"/>
-<path opacity="0.8" d="M34 0.430603L51 29.8537H17L34 0.430603Z" fill="#4D9DE0"/>
-</svg>
+<svg width="68" height="30" fill="none" xmlns="http://www.w3.org/2000/svg"><path opacity=".9" d="M51 .43l17 29.424H34L51 .43zM17 .43l17 29.424H0L17 .43z" fill="#4D9DE0"/><path opacity=".8" d="M34 .43l17 29.424H17L34 .43z" fill="#4D9DE0"/></svg>
